@@ -1,5 +1,15 @@
 # Large-scale-learning
 
-Setup on Win10:
-http://blog.csdn.net/yaoqiwaimai/article/details/59114881
+Install pyspark on Win10(Version Spark 2.1.0 + Hadoop 2.6.4):
 
+1) All necessary packages:
+
+http://blog.csdn.net/yaoqiwaimai/article/details/59114881   follow the steps to setup or unzip all packages
+
+2) Setups:
+
+https://www.zhihu.com/question/35973656   follow the steps to check the paths of all environment variables
+
+To change environment variables: Right click 'My computer' -> 'Advanced system settings' -> 'Advanced' -> 'Environment Variables'
+
+3) Tested on ipython notebook 2.7 and passed
