@@ -1,4 +1,4 @@
-# Large-scale-learning
+# Spark-Large-scale-learning
 
 Install pyspark on Win10(Version Spark 2.1.0 + Hadoop 2.6.4):
 
