@@ -12,4 +12,4 @@ https://www.zhihu.com/question/35973656   follow the steps to check the paths of
 
 To change environment variables: Right click 'My computer' -> 'Advanced system settings' -> 'Advanced' -> 'Environment Variables'
 
-3) Tested on ipython notebook 2.7 and passed
+3) Tested and passed on Jupyter notebook 2.7 
