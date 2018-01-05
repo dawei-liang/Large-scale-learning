@@ -4,7 +4,7 @@ Install pyspark on Win10(Version Spark 2.1.0 + Hadoop 2.6.4):
 
 1) All necessary packages:
 
-http://blog.csdn.net/yaoqiwaimai/article/details/59114881   follow the steps to setup or unzip all packages
+http://blog.csdn.net/yaoqiwaimai/article/details/59114881   follow the steps to setup or unzip all packages (No need to root as in the last instruction)
 
 2) Setups:
 
